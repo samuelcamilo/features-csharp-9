@@ -1,0 +1,13 @@
+E:\Development\GitHub\features-csharp-9\Features.App\bin\Debug\netcoreapp3.1\Features.App.exe
+E:\Development\GitHub\features-csharp-9\Features.App\bin\Debug\netcoreapp3.1\Features.App.deps.json
+E:\Development\GitHub\features-csharp-9\Features.App\bin\Debug\netcoreapp3.1\Features.App.runtimeconfig.json
+E:\Development\GitHub\features-csharp-9\Features.App\bin\Debug\netcoreapp3.1\Features.App.runtimeconfig.dev.json
+E:\Development\GitHub\features-csharp-9\Features.App\bin\Debug\netcoreapp3.1\Features.App.dll
+E:\Development\GitHub\features-csharp-9\Features.App\bin\Debug\netcoreapp3.1\Features.App.pdb
+E:\Development\GitHub\features-csharp-9\Features.App\obj\Debug\netcoreapp3.1\Features.App.csprojAssemblyReference.cache
+E:\Development\GitHub\features-csharp-9\Features.App\obj\Debug\netcoreapp3.1\Features.App.AssemblyInfoInputs.cache
+E:\Development\GitHub\features-csharp-9\Features.App\obj\Debug\netcoreapp3.1\Features.App.AssemblyInfo.cs
+E:\Development\GitHub\features-csharp-9\Features.App\obj\Debug\netcoreapp3.1\Features.App.csproj.CoreCompileInputs.cache
+E:\Development\GitHub\features-csharp-9\Features.App\obj\Debug\netcoreapp3.1\Features.App.dll
+E:\Development\GitHub\features-csharp-9\Features.App\obj\Debug\netcoreapp3.1\Features.App.pdb
+E:\Development\GitHub\features-csharp-9\Features.App\obj\Debug\netcoreapp3.1\Features.App.genruntimeconfig.cache
